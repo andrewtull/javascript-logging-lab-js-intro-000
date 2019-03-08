@@ -2,7 +2,7 @@
   "name": "java-script-logging-lab",
   "version": "0.1.0",
   "description": "Practice writing a log statement",
-  "engines": {
+
 
 
   "main": "index.js",
