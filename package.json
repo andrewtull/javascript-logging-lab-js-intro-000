@@ -4,9 +4,7 @@
   "description": "Practice writing a log statement",
   "engines": {
 
-    "engines": {
-    "node": "6.x",
-    "npm": "3.x"
+
   },
   "main": "index.js",
   "scripts": {
