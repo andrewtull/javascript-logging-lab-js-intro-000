@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "description": "Practice writing a log statement",
 
-
-
   "main": "index.js",
   "scripts": {
     "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
